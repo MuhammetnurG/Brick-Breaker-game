@@ -1,5 +1,5 @@
 # 🧱 Brick Breaker Game
-
+ 
 A fun **Brick Breaker (Breakout)** game built with **Python** and **Pygame**.  
 The goal is to control the paddle, bounce the ball, and break all the bricks without losing all your lives.
 
